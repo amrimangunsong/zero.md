@@ -1,8 +1,18 @@
 <div align="center">
 
-# zero.md 📄⚡
+<img src="assets/banner.svg" alt="zero.md banner" width="100%" />
 
-**Zero-bloat, ultra-lightweight native Markdown viewer for Linux.**
+<br/>
+
+```
+    ███████╗███████╗██████╗  ██████╗         ███╗   ███╗██████╗ 
+    ╚══███╔╝██╔════╝██╔══██╗██╔═══██╗        ████╗ ████║██╔══██╗
+      ███╔╝ █████╗  ██████╔╝██║   ██║        ██╔████╔██║██║  ██║
+     ███╔╝  ██╔══╝  ██╔══██╗██║   ██║  ██╗   ██║╚██╔╝██║██║  ██║
+    ███████╗███████╗██║  ██║╚██████╔╝  ╚═╝██╗██║ ╚═╝ ██║██████╔╝
+    ╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝      ╚═╝╚═╝     ╚═╝╚═════╝ 
+                 Zero-bloat native Markdown viewer
+```
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: Linux](https://img.shields.io/badge/Platform-Linux-orange.svg)](#requirements)
