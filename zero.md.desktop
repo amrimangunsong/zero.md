@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=zero.md
+GenericName=Markdown Viewer
+Comment=Zero-bloat native Markdown viewer
+Exec=zero.md %F
+Icon=text-markdown
+Terminal=false
+Type=Application
+MimeType=text/markdown;text/x-markdown;text/plain;
+Categories=Utility;Viewer;Development;
+StartupNotify=true
+Keywords=markdown;viewer;editor;md;doc;
