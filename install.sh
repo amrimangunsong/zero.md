@@ -59,11 +59,10 @@ chmod +x "$TARGET_DESKTOP"
 ln -sf "$TARGET_BIN" "$BIN_DIR/zeromd"
 ln -sf "$TARGET_BIN" "$BIN_DIR/zero-md"
 
-# 3. Register Desktop MIME associations
+# 3. Register Desktop MIME associations (Only for Markdown)
 if command -v xdg-mime >/dev/null 2>&1; then
     xdg-mime default zero.md.desktop text/markdown
     xdg-mime default zero.md.desktop text/x-markdown
-    xdg-mime default zero.md.desktop text/plain
 fi
 
 if command -v update-desktop-database >/dev/null 2>&1; then
